@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "BX6wPsJL9bY=",
+  "success": true,
+  "projectFilePath": "C:\\SE08203\\SIMS\\SIMS\\SIMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Thanh Trieu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Nguyen Thanh Trieu\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Nguyen Thanh Trieu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Nguyen Thanh Trieu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.22\\microsoft.netcore.app.host.win-x64.8.0.22.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\SE08203\\SIMS\\SIMS\\SIMS.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\SE08203\\SIMS\\SIMS\\SIMS.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

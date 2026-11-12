@@ -51,7 +51,14 @@
                 <div class="card p-4">
                     <div class="card-body d-flex flex-column gap-4">
                         <h2 class="h5 text-center">Login to your account</h2>
+                        @if (ViewData["ErrorMessageLogin"] != null)
+                        {
+                            <p class="h5 text-center text-danger">
+                                @ViewData["ErrorMessageLogin"]
+                            </p>
+                        }
                         <form class="row gap-3" asp-action="Index" method="post" autocomplete="off" novalidate>
+                            @Html.AntiForgeryToken()
                             <div>
                                 <label class="form-label" for="username">Username</label>
                                 <input class="form-control" id="username" type="text" placeholder="Username" autocomplete="off" asp-for="Username">

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\SE08203\\SIMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|c:\\se08203\\sims\\sims\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|c:\\se08203\\sims\\sims\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|solutionrelative:sims\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|c:\\se08203\\sims\\sims\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|c:\\se08203\\sims\\sims\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|solutionrelative:sims\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|c:\\se08203\\sims\\sims\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|solutionrelative:sims\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|c:\\se08203\\sims\\sims\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA90AF8-DF3B-4915-BCEB-A0DC5BC835C5}|SIMS\\SIMS.csproj|solutionrelative:sims\\models\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\SE08203\\SIMS\\SIMS\\Models\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "SIMS\\Models\\LoginViewModel.cs",
-              "ToolTip": "C:\\SE08203\\SIMS\\SIMS\\Models\\LoginViewModel.cs",
-              "RelativeToolTip": "SIMS\\Models\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\SE08203\\SIMS\\SIMS\\Models\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "SIMS\\Models\\ProductViewModel.cs",
+              "ToolTip": "C:\\SE08203\\SIMS\\SIMS\\Models\\ProductViewModel.cs",
+              "RelativeToolTip": "SIMS\\Models\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T08:32:34.23Z"
+              "WhenOpened": "2026-11-12T08:40:37.272Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\SE08203\\SIMS\\SIMS\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "SIMS\\Views\\Login\\Index.cshtml",
-              "ToolTip": "C:\\SE08203\\SIMS\\SIMS\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "SIMS\\Views\\Login\\Index.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAD4AAACgAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\SE08203\\SIMS\\SIMS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "SIMS\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\SE08203\\SIMS\\SIMS\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "SIMS\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-05T07:36:29.401Z"
+              "WhenOpened": "2026-11-12T08:34:48.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\SE08203\\SIMS\\SIMS\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "SIMS\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\SE08203\\SIMS\\SIMS\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "SIMS\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\SE08203\\SIMS\\SIMS\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "SIMS\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\SE08203\\SIMS\\SIMS\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "SIMS\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T07:33:30.393Z",
+              "WhenOpened": "2026-11-12T08:32:08.719Z",
               "EditorCaption": ""
             }
           ]
